@@ -33,5 +33,5 @@ Please run following command to download pdfminer package.
 ## Run Script
 1. Open "cmd"
 2. "cd" to project root directory 
-3. Run "python manage.py pdf.py [pdfFilename]
+3. Run "python pdf.py [pdfFilename]
 
