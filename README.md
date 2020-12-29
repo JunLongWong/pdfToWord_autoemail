@@ -1,5 +1,5 @@
 # pdfToWord_autoemail
-Automation project
+Automation of tedious data entry task - part 2
 
 This script extracts text from a pdf by locating pre-defined coordinates and populate data in a word document & let the user decide whether to send out an email with the attached word document output to the other party.
 
