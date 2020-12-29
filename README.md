@@ -1,7 +1,7 @@
 # pdfToWord_autoemail
 Automation project
 
-This script extracts text from a pdf by locating pre-defined coordinates and populate data in a word document in a pre-defined format & let the user decide whether to send out an email with the attached word document output to the other party.
+This script extracts text from a pdf by locating pre-defined coordinates and populate data in a word document & let the user decide whether to send out an email with the attached word document output to the other party.
 
 file - "senderParticulars" is not provided as it contains sensitive information.
 
