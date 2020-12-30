@@ -26,9 +26,10 @@ If in case of missing pip package:
 2. Start command prompt or bash and "cd" to get-pip.py location.
 3. Run python get-pip.py
 
-### 3. Installation of python-docx
-Please run following command to download pdfminer package.
+### 3. Installation of library
+Please run following command to download pdfminer & python-docx package.
 1. pip install pdfminer
+2. pip install python-docx
 
 ## Run Script
 1. Open "cmd"
