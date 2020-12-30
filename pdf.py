@@ -290,7 +290,7 @@ def main():
     print("Email not send!!...Exiting program.")
     sys.exit(0)
   else:
-    #Previewing content - to make sure that the text recognition is correct before sending out of email
+    #Previewing content - to make sure that the text extraction is correct before sending out of email
     print("Previewing content of generated word document\n")
     for sorNo,sorDesc,qty in pdfData[0]:
       print("SOR:{}, Qty:{}, SOR_DESCRIPTION:{}".format(sorNo,qty,sorDesc))
